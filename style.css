@@ -1,0 +1,63 @@
+*{
+   margin: 0 auto; 
+}
+
+.main{
+    background-color: #bcb4b4;
+}
+
+.recipe-list{
+    padding: 2px;
+}
+
+.nav{
+    border: 1px dashed black;
+}
+
+.banner{
+    margin: 10px;
+}
+
+.heading-banner{
+    /* padding-bottom: 20px; */
+}
+
+.pic-banner{
+    border: 2px solid black;
+}
+
+.introduction{
+
+}
+
+.heading-other{
+    /* margin-top: 5px; */
+}
+
+.descr{
+
+}
+
+.ingredients{
+
+}
+
+.list{
+
+}
+
+.steps{
+
+}
+
+.introduction,
+.ingredients,
+.steps{
+    margin: 20px;
+    width: 400px;
+    text-align: justify;
+}
+
+.ingredients{
+    border: 2px dotted black;
+}

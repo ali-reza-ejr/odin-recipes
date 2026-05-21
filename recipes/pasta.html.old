@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <a href="../index.html">Home</a>
+    <h1></h1>
+    <img src="./pasta.jpg" alt="Photo of delicious pasta on a beautiful white plate" height="300">
+    <h2></h2>
+    <p></p>
+    
+    <p></p>
+
+    <h3>Ingredients</h3>
+    <ul>
+        
+    </ul>
+    <h3>Steps:</h3>
+    <ol>
+        
+    </ol>
+
+</body>
+</html>
